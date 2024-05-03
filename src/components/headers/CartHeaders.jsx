@@ -7,7 +7,6 @@ import { IoIosHelpBuoy } from "react-icons/io";
 import { FaRegUser } from "react-icons/fa6";
 import { FaOpencart } from "react-icons/fa";
 import swiggyLogo from '../../public/swiggy-logo.png'
-import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 
 
 function CartHeaders() {
